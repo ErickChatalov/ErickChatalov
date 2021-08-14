@@ -17,6 +17,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/erick-chatalov-6292a7192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ErickChatalov/ErickChatalov/blob/output/github-contribution-grid-snake.svg)
  
 </div>
