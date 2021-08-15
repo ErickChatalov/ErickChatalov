@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-R" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
     <img align="center" alt="Rafa-SQL" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/noSQL/noSQL-original.svg">
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nosql/nosql-original.svg">
   
   ##
  
